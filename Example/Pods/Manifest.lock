@@ -1,0 +1,16 @@
+PODS:
+  - HumaniqConstants (0.1.0)
+
+DEPENDENCIES:
+  - HumaniqConstants (from `../`)
+
+EXTERNAL SOURCES:
+  HumaniqConstants:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HumaniqConstants: 868635b02e70279295ee2e73f58983c8fc3b4905
+
+PODFILE CHECKSUM: 136e882bfcab3271a7b0cb3b8a368af01fad10ff
+
+COCOAPODS: 1.5.0

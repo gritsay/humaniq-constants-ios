@@ -1,0 +1,6 @@
+framework module HumaniqConstants {
+  umbrella header "HumaniqConstants-umbrella.h"
+
+  export *
+  module * { export * }
+}

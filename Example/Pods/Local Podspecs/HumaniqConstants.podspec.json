@@ -1,0 +1,22 @@
+{
+  "name": "HumaniqConstants",
+  "version": "0.1.0",
+  "summary": "A short description of HumaniqConstants.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Alex Gritsay/HumaniqConstants",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Alex Gritsay": "aleksandr.gritsay@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Alex Gritsay/HumaniqConstants.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HumaniqConstants/Classes/**/*"
+}
