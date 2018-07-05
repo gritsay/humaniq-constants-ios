@@ -1,0 +1,6 @@
+use_frameworks!
+target 'HumaniqConstants_Tests' do
+  pod 'HumaniqConstants', :path => '../'
+  
+  
+end
